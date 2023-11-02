@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-[![GitHub issues](https://img.shields.io/github/issues/luban-agi/coca)](https://github.com/luban-agi/coca/issues)
+[![GitHub issues](https://img.shields.io/github/issues/codefuse-ai/Collinear-Constrained-Attention)](https://github.com/codefuse-ai/Collinear-Constrained-Attention/issues)
 
 [comment]: <> ([<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Weights & Biases monitoring" height=20>]&#40;https://wandb.ai/eleutherai/neox&#41;)
 
@@ -95,9 +95,9 @@ This repository hosts code of CoCA project. Copyright (c) 2023, Ant Group. Licen
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+    
         http://www.apache.org/licenses/LICENSE-2.0
-
+    
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
