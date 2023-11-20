@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+# Collinear Constrained Attention
 
 [![GitHub issues](https://img.shields.io/github/issues/codefuse-ai/Collinear-Constrained-Attention)](https://github.com/codefuse-ai/Collinear-Constrained-Attention/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/Collinear-Constrained-Attention?style=social)](https://github.com/codefuse-ai/Collinear-Constrained-Attention)
 
 [comment]: <> ([<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Weights & Biases monitoring" height=20>]&#40;https://wandb.ai/eleutherai/neox&#41;)
 
@@ -13,12 +14,12 @@ We just point out those modifications which made to implement CoCA here. For mor
 
 For practicality, we enhanced CoCA's computational and spatial efficiency with [opt_einsum](https://github.com/dgasmith/opt_einsum), view this repository for more information.
 
-# Quick Start
+## 🚀 Quick Start
 
-## environment
+### 💻 Environment
 Atorch is an optimized torch version by Ant Group, it's not available for opensource community yet. It will be opensource in near future. Before that, you may use origin torch version instead.
 
-## datasets
+### 📂 Datasets
 You can use raw data or tokenized data for training.
 
 When using raw data, please ensure the data format as:
@@ -33,7 +34,7 @@ python ./data/tokenization/generate_dataset.py
 ```
 notice to modify `input_dict`, `conver_type_list`, `output_name`, `seq_length` for your own dataset.
 
-## training
+### 🏋️‍♂️ Training
 You can train a model from scratch as follows:
 ```bash
 bash ./train/run_coca.sh 32 1 8 2
@@ -46,7 +47,7 @@ bash ./train/run_coca.sh 32 1 8 2
 
 If you want to load a pre-trained model, set `--pretrained_model_path $PRETRAINED_MODEL_PATH \`.
 
-## inference
+### 🧠 Inference
 CoCA can be loaded using the `transformers` functionality:
 
 ```python
@@ -71,9 +72,9 @@ tokenizer.add_special_tokens({'eos_token': "<|endoftext|>"})
 tokenizer.add_special_tokens({'pad_token': "<|pad|>"})
 ```
 
-# Administrative Notes
+## 📝 Administrative Notes
 
-## Citing CoCA
+### 📚 Citing CoCA
 
 If you have found the CoCA library helpful in your work, you can cite this repository as
 
@@ -88,7 +89,7 @@ If you have found the CoCA library helpful in your work, you can cite this repos
 }
 ```
 
-## Licensing
+### 📜 Licensing
 
 This repository hosts code of CoCA project. Copyright (c) 2023, Ant Group. Licensed under the Apache License:
 
