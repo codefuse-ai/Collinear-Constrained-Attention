@@ -14,6 +14,8 @@ We just point out those modifications which made to implement CoCA here. For mor
 
 For practicality, we enhanced CoCA's computational and spatial efficiency with [opt_einsum](https://github.com/dgasmith/opt_einsum), view this repository for more information.
 
+![PPL Performance](https://github.com/codefuse-ai/Collinear-Constrained-Attention/blob/master/assets/PPL.png "PPL Performance")
+
 ## 🚀 Quick Start
 
 ### 💻 Environment
