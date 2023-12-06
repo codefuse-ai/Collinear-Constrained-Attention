@@ -1,14 +1,10 @@
-<div align="center">
-<h1>
-  Collinear Constrained Attention
-</h1>
-</div>
-
 <p align="center">
-<img src="https://github.com/codefuse-ai/Collinear-Constrained-Attention/blob/master/assets/logo.png" width="630px">
+<img src="https://github.com/codefuse-ai/Collinear-Constrained-Attention/blob/master/assets/logo.png" width="540px">
 </p>
 
 <p align="center">
+🤗 <a href="https://huggingface.co/codefuse-ai/Collinear-Constrained-Attention" target="_blank">Hugging Face</a> 
+• 
 🤖 <a href="https://modelscope.cn/models/codefuse-ai/Collinear-Constrained-Attention/summary" target="_blank">ModelScope</a> 
   • 
 📄 <a href="https://arxiv.org/abs/2309.08646" target="_blank">Paper</a>
@@ -23,7 +19,7 @@
 
 [comment]: <> ([<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Weights & Biases monitoring" height=20>]&#40;https://wandb.ai/eleutherai/neox&#41;)
 
-This repository provides an implementation of [CoCA](https://arxiv.org/abs/2309.08646). This implementation is based on 2 transformer models in [Hugging Face]().
+This repository provides an implementation of [CoCA (Collinear Constrained Attention)](https://arxiv.org/abs/2309.08646). This implementation is based on 2 transformer models in [Hugging Face]().
 
 - [GPT-NeoX](https://github.com/huggingface/transformers/tree/main/src/transformers/models/gpt_neox) which is an [EleutherAI](https://www.eleuther.ai)'s library for training large-scale language models on GPUs.
 - [LLaMA](https://github.com/huggingface/transformers/tree/main/src/transformers/models/llama) from Meta AI team.
