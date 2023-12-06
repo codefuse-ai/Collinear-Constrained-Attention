@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/codefuse-ai/Collinear-Constrained-Attention/blob/master/assets/logo.png" width="140px">
+<img src="https://github.com/codefuse-ai/Collinear-Constrained-Attention/blob/master/assets/logo.png" width="630px">
 </p>
 
 <p align="center">
