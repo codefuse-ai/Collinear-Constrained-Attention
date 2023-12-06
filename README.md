@@ -1,7 +1,21 @@
-# Collinear Constrained Attention
+<div align="center">
+<h1>
+  Collinear Constrained Attention
+</h1>
+</div>
+
+<p align="center">
+🤖 <a href="https://modelscope.cn/models/codefuse-ai/Collinear-Constrained-Attention/summary" target="_blank">ModelScope</a> 
+  • 
+📄 <a href="https://arxiv.org/abs/2309.08646" target="_blank">Paper</a>
+</p>
+
+<div align="center">
 
 [![GitHub issues](https://img.shields.io/github/issues/codefuse-ai/Collinear-Constrained-Attention)](https://github.com/codefuse-ai/Collinear-Constrained-Attention/issues)
 [![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/Collinear-Constrained-Attention?style=social)](https://github.com/codefuse-ai/Collinear-Constrained-Attention)
+
+</div>
 
 [comment]: <> ([<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Weights & Biases monitoring" height=20>]&#40;https://wandb.ai/eleutherai/neox&#41;)
 
