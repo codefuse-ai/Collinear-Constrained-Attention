@@ -5,6 +5,10 @@
 </div>
 
 <p align="center">
+<img src="https://github.com/codefuse-ai/Collinear-Constrained-Attention/blob/master/assets/logo.png" width="140px">
+</p>
+
+<p align="center">
 🤖 <a href="https://modelscope.cn/models/codefuse-ai/Collinear-Constrained-Attention/summary" target="_blank">ModelScope</a> 
   • 
 📄 <a href="https://arxiv.org/abs/2309.08646" target="_blank">Paper</a>
