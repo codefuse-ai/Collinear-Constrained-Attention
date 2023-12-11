@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/codefuse-ai/Collinear-Constrained-Attention" target="_blank">Hugging Face</a> 
+🤗 <a href="https://huggingface.co/codefuse-ai/Collinear-Constrained-Attention" target="_blank">Hugging Face(is coming)</a> 
 • 
-🤖 <a href="https://modelscope.cn/models/codefuse-ai/Collinear-Constrained-Attention/summary" target="_blank">ModelScope</a> 
+🤖 <a href="https://modelscope.cn/models/codefuse-ai/Collinear-Constrained-Attention/summary" target="_blank">ModelScope(is coming)</a> 
   • 
 📄 <a href="https://arxiv.org/abs/2309.08646" target="_blank">Paper</a>
 </p>
