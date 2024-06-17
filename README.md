@@ -99,13 +99,13 @@ tokenizer.add_special_tokens({'pad_token': "<|pad|>"})
 If you have found the CoCA library helpful in your work, you can cite this repository as
 
 ```bibtex
-@misc{zhu2023cure,
-      title={Cure the headache of Transformers via Collinear Constrained Attention}, 
-      author={Shiyi Zhu and Jing Ye and Wei Jiang and Qi Zhang and Yifan Wu and Jianguo Li},
-      year={2023},
-      eprint={2309.08646},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{zhu2024coca,
+    title={CoCA: Fusing Position Embedding with Collinear Constrained Attention in Transformers for Long Context Window Extending}, 
+    author={Shiyi Zhu and Jing Ye and Wei Jiang and Siqiao Xue and Qi Zhang and Yifan Wu and Jianguo Li},
+    booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+    month = august,
+    year = {2024},
+    publisher = {Association for Computational Linguistics},
 }
 ```
 
